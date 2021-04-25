@@ -7,7 +7,7 @@ For vision:
 Tensorflow>2 and < 2.4
 OpenCV
 sklearn=0.19.1 # for face spoofing. 
-
+```
 
 ## Vision
 
@@ -46,7 +46,6 @@ to install these modules
 
 ```
 pip install -r requirements.txt
-
 python <file_name>.py
 
 ```
