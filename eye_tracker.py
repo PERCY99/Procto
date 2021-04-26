@@ -11,7 +11,7 @@ def eye_on_mask(mask, side, shape):
 
     Parameters
     ----------
-    mask : np.uint8
+    mask : np.uint8 
         Blank mask to draw eyes on
     side : list of int
         the facial landmark numbers of eyes

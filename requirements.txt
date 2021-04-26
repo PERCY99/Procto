@@ -7,5 +7,5 @@ pyaudio
 numpy
 scikit-learn==0.24.1
 wget
-protobuf==3.6.0
+#protobuf==3.6.0
 pillow
